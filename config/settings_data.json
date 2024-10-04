@@ -118,7 +118,7 @@
     "customization_option_hidden": true,
     "customization_option_1": "Input Text",
     "customization_option_2": "Input File",
-    "show_customer_login": false,
+    "show_customer_login": true,
     "customer_login_btn_2": "2",
     "after_add_to_cart": "quick_cart",
     "enable_lazyload": true,
