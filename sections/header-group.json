@@ -79,7 +79,7 @@
             "cart_item_font_size": 12,
             "show_wishlist": true,
             "wishlist_color": "#06142e",
-            "show_account": true,
+            "show_account": false,
             "customer_color": "#06142e",
             "padding_top": 19,
             "padding_bottom": 19
