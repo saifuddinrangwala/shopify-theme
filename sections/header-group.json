@@ -89,6 +89,7 @@
       "block_order": [
         "group_2_kbLQfp"
       ],
+      "disabled": true,
       "custom_css": [
         ".header-advanced__item .header__logo img {width: 400px;}"
       ],
