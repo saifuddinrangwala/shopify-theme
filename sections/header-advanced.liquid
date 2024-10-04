@@ -178,7 +178,7 @@
                                             <a href="{{ pages['wish-list'].url }}" class="header__icon header__icon--wishlist link link--text focus-inset">{% render 'icon-heart-2' %} <span class="wishlist-text">{{ 'wishlist.general.wishlist' | t }}</span></a>
                                         </div>
                                     {%- endif -%}
-                                    {%- if block.settings.show_account -%}
+                                    
                                         <div class="header__iconItem header__group header-advanced-account" style="--color: {{ block.settings.customer_color }}">
                                             {%- if shop.customer_accounts_enabled -%}
                                                 {% if routes.account_login_url contains '/account/login' %}
@@ -223,7 +223,7 @@
                                                 {%- endif -%}                   
                                             {%- endif -%}
                                         </div>
-                                    {%- endif -%}
+                                    
                                 </div>
                             {%- endif -%}
                     {%- endcase -%}
