@@ -57,7 +57,7 @@
             "gradient": "",
             "show_logo": true,
             "logo_position": "left",
-            "logo": "shopify://shop_images/jam.png",
+            "logo": "shopify://shop_images/zayne-logo.png",
             "logo_width": 300,
             "logo_text": "",
             "logo_font_size": 30,
@@ -399,7 +399,7 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify://shop_images/jam.png",
+            "logo_mobile": "shopify://shop_images/zayne-logo.png",
             "logo_width_mobile": 150,
             "logo_text": "",
             "logo_font_size": 20,
