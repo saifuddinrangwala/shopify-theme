@@ -2025,28 +2025,28 @@
           "type": "ProductTabs",
           "settings": {
             "title": "Power Tools",
-            "collection": "power-tools-acc-category"
+            "collection": "power-tools"
           }
         },
         "product_tabs_yYwmMz": {
           "type": "ProductTabs",
           "settings": {
             "title": "Hardware",
-            "collection": "hardware-category"
+            "collection": "hardware-instock"
           }
         },
         "product_tabs_qiEt7t": {
           "type": "ProductTabs",
           "settings": {
             "title": "Pet Supplies",
-            "collection": "pet-wild-bird-category"
+            "collection": "pet-supplies-instock"
           }
         },
         "product_tabs_Qc7nMn": {
           "type": "ProductTabs",
           "settings": {
             "title": "Electricals",
-            "collection": "electrical-category"
+            "collection": "electricals-instock"
           }
         }
       },
