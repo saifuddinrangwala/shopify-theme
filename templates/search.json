@@ -47,7 +47,7 @@
         "ac51c45c-4e78-4292-8cc6-51a9b2151175"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.card-media > img {padding: 90px; }}"
+        "@media (min-width: 768px) {.card-media > img {padding: 0px; }}"
       ],
       "settings": {
         "show_breadcrumb": false,
